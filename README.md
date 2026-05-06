@@ -8,6 +8,6 @@ Dette repoet skal inneholde ulike oppdateringer og info som er interessant for W
 
 Webkom skal bli mer åpent fremover.
 
-1. Har laget Discord server for alle studenter. Her kan man poste issues og ideer og diskutere med Webkom.
+1. Har laget [Discord server](https://discord.gg/CP29HBkfug) for alle studenter. Her kan man poste issues og ideer og diskutere med Webkom.
 2. Mandagsmøter skal komme tilbake. Disse møtene skal også være åpne for alle slik at folk kan komme med tilbakemeldinger på en mer effektiv måte.
 3. Planen fremover er å generellt gjøre det lettere å komme i kontakt med Webkom, og forhåpentlighvis få noen contributers etterhvert.
